@@ -1,32 +1,16 @@
-
-### Explanation:
-
-- The `git clone` command is wrapped in a code block (indicated by triple backticks).
-- The code block is set to use the `bash` language, which will help GitHub render it properly as a command line snippet.
-  
-Once you add this to your **README.md**, it will display as a clean, formatted code block on GitHub when someone views the repository.
-
-
-
-
-
-
-
-
-
 **Tomato Retail Sales Data in Nigeria**
 
 ****Project Over View****
-a)This project showcases my data analysis skills using a dataset sourced from Kaggle, focused on tomato sales and pricing trends in Nigeria. It involves:
+a)This project showcases my data analysis skills using a dataset sourced from Kaggle, focused on tomato sales and pricing trends in Nigeria.
 b)Writing SQL queries to address key analytical questions and uncover actionable insights.
 c)Summarizing findings through a detailed presentation to highlight trends, patterns, and data-driven conclusions.
 
 ****Dataset****
-**Source:** https://www.kaggle.com/datasets/bonifacechosen/tomato-retail-sales-data-2009-2022
-**Description:** 
-i)This dataset captures 13 years of tomato sales and pricing data in Nigeria, providing valuable insights into agricultural market dynamics. 
-ii)It reflects regional price fluctuations, consumer demand trends, and the impact of seasonal changes (rainy and dry seasons) on produce availability.
-iii)The dataset is a critical resource for analyzing food security, market forecasting, and localized agricultural trends in Nigeria.
+i.Source:** https://www.kaggle.com/datasets/bonifacechosen/tomato-retail-sales-data-2009-2022
+ii)Description: 
+a)This dataset captures 13 years of tomato sales and pricing data in Nigeria, providing valuable insights into agricultural market dynamics. 
+b)It reflects regional price fluctuations, consumer demand trends, and the impact of seasonal changes (rainy and dry seasons) on produce availability.
+c)The dataset is a critical resource for analyzing food security, market forecasting, and localized agricultural trends in Nigeria.
 
 ****Objectives*****
 The primary objective of this project is to analyze 13 years of tomato sales and pricing data
@@ -37,9 +21,10 @@ In Nigeria to uncover retail segments .
 **Pricing and Stock Dynamics**: Study unit price fluctuations and compare opening versus closing stock levels over the years.
 
 **Project Structure**
-1. The dataset, originally downloaded from Kaggle in CSV format, has been uploaded to the database as Tomato_Retail_Data for analysis.
-2.** **Data Analysis And Finding****
-(I)Pointers:
+I). The dataset, originally downloaded from Kaggle in CSV format, has been uploaded to the database as Tomato_Retail_Data for analysis.
+
+II)**Data Analysis And Finding**
+
 **Annual Sales Trends**:
 i.Calculated total sales per year to identify growth or decline trends.
 ii.Identified the years with maximum and minimum total sales values.
