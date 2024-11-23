@@ -1,3 +1,19 @@
+
+### Explanation:
+
+- The `git clone` command is wrapped in a code block (indicated by triple backticks).
+- The code block is set to use the `bash` language, which will help GitHub render it properly as a command line snippet.
+  
+Once you add this to your **README.md**, it will display as a clean, formatted code block on GitHub when someone views the repository.
+
+
+
+
+
+
+
+
+
 **Tomato Retail Sales Data in Nigeria**
 
 ****Project Over View****
