@@ -2,7 +2,7 @@
 
 ****Project Over View****
 
-a)This project showcases my data analysis skills using a dataset sourced from Kaggle, focused on tomato sales and pricing trends in Nigeria.
+a)This project showcases my data analysis skills using a dataset sourced from Kaggle, focused on tomato retail sales and pricing trends in Nigeria.
 
 b)Writing SQL queries to address key analytical questions and uncover actionable insights.
 
